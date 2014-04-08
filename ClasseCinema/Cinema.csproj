@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>9c989b5f-8d66-4813-ba68-353bacb36f26</ProjectGuid>
+    <ProjectGuid>{34D49CF1-85C9-47E3-949E-737875356E67}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ClasseCinema</RootNamespace>
